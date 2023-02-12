@@ -1,26 +1,42 @@
 ### Hi My name is Leandro Almeida
-<p></p>
-<hr>
-- 🌱 currently studying
+
+
+<h2>LANGUAGES</h2>
 <div style="display: inline_block" align="center"><br>
   <img align="center" heigth="50" width="50" atl="icon-html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img align="center" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img align="center" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img align="center" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+  <img align="center" heigth="50" width="50" atl="icon-css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" heigth="50" width="50" atl="icon-javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
 
-<h2>code</h2>
+<h2>FRAMEWORKS, PLATFORMS & LIBRARIES</h2>
+<div style="display: inline_block" align="center">
+   <img align="center" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+   <img align="center" heigth="50" width="50" atl="icon-sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+   <img align="center" heigth="50" width="50" atl="icon-gulp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
+</div>
+
+<h2>DATABASES</h2>
+<div style="display: inline_block" align="center"><br>
+  <img img align="center" heigth="50" width="50" atl="icon-postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+</div>
+
+<h2>CODE</h2>
 <div style="display: inline_block" align="center"><br>
 <hr>
   <a href="https://codepen.io/your-work/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" style="width:40px"/>
   </a>
- </div
+ </div>
 
  
-  <h3>Contacts</h3>
-  <hr>
+<h3>CONTACTS</h3>
  <div style="display: inline_block" align="center"><br>
     <a href="https://www.linkedin.com/in/leandro-almeida-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<h3>GIT STATS</h3>
+
+![](https://github-readme-stats.vercel.app/api?username=almeidaleandro28&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=almeidaleandro28&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=almeidaleandro28&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
