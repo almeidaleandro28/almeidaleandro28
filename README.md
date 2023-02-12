@@ -13,6 +13,8 @@
    <img align="center" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
    <img align="center" heigth="50" width="50" atl="icon-sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
    <img align="center" heigth="50" width="50" atl="icon-gulp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
+   <img align="center" heigth="50" width="50" atl="icon-jquery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
+  <img align="center" heigth="50" width="50" atl="icon-npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 </div>
 
 <h2>DATABASES</h2>
