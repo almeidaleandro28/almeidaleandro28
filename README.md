@@ -21,15 +21,6 @@
 <div style="display: inline_block" align="center"><br>
   <img img align="center" heigth="50" width="50" atl="icon-postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div>
-
-<h2>CODE</h2>
-<div style="display: inline_block" align="center"><br>
-<hr>
-  <a href="https://codepen.io/your-work/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" style="width:40px"/>
-  </a>
- </div>
-
  
 <h3>CONTACTS</h3>
  <div style="display: inline_block" align="center"><br>
